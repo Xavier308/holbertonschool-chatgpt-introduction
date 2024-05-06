@@ -44,4 +44,7 @@ Identify and correct errors in Python code for a Tic Tac Toe game.
 
 This project is part of the Holberton School curriculum and was completed with the assistance of ChatGPT.
 
+## Implemented by
+Xavier J. Cruz (based on content by HBTN)
+
 
