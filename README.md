@@ -2,6 +2,9 @@
 
 Welcome to the ChatGPT Introduction Project! This project focuses on enhancing code quality and efficiency by using ChatGPT for debugging, automation, documentation, and error handling. Through a series of exercises, you'll learn how to integrate artificial intelligence into everyday coding practices.
 
+## Implemented by
+Xavier J. Cruz (based on content by HBTN)
+
 ## Objectives
 
 1. **Debugging**: Understand the practical use of AI in identifying and solving coding errors.
@@ -44,7 +47,5 @@ Identify and correct errors in Python code for a Tic Tac Toe game.
 
 This project is part of the Holberton School curriculum and was completed with the assistance of ChatGPT.
 
-## Implemented by
-Xavier J. Cruz (based on content by HBTN)
 
 
